@@ -1,6 +1,6 @@
-# quiz_app
+# dice_roller
 
-A new Flutter project.
+Simple Application for guessing dice.
 
 ## Getting Started
 
